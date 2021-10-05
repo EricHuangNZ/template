@@ -196,3 +196,21 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/github_username
+
+Tēnā koutou, tēnā koutou, tēnā koutou katoa. 
+
+He uri ahau / nō tawhiti,   (I am from distant land),
+nō Haina/  China
+nō Hunan.   Hunan
+
+Kei te / Awa-kai-rangi au / e noho ana. (I live in Lower Hutt)
+
+E mihi ana / ki ngā tohu / o nehe 
+nō te Awa-kai-rangi.			(I recognise the
+ancestral and spiritual landmarks of Lower Hutt where I live)
+
+Ko Nan Yang/ tōku ingoa. 
+
+Ko __Xiaoxiaoyu___ rāua ko ___Xiaohaixing___ aku tamariki.
+
+Tēnā koutou/ tēnā koutou/ tēnā koutou / katoa.
